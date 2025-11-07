@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.delaroystudios.webview"
+        applicationId "com.sxcce.messageapp"
         minSdkVersion 10
         targetSdkVersion 17
     }
