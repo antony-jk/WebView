@@ -18,7 +18,7 @@ public class ShowWebView extends Activity {
 		//Get webview 
 		webView = (WebView) findViewById(R.id.webView1);
 		
-		startWebView("http://www.delaroystudios.com");
+		startWebView("https://sxcce.edu.in/message/");
 		
 	}
 	
